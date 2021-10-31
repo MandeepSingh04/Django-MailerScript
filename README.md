@@ -1,11 +1,4 @@
 # Django-AutoMailerScript
 
-### This is django code for a registration page.
-##### Whenever there is successful registration it shoots out a mail showing successful registration.
-
-
-
-### Start this script by:
-##### 1. Add email id and password in settings.py file.
-##### 2. Add email id in views.py file.
-##### 3. Host the webapp wherever you want.
+this is django - auto mailer script
+thank you
